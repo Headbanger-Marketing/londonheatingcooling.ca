@@ -1,0 +1,15 @@
+# London Heating & Cooling
+
+> Licensed, family-run HVAC company in London, Ontario. A full-service heating and cooling team handling furnace and AC repair, heat pumps, ductless systems, thermostats, and duct cleaning, plus seasonal maintenance, for homeowners across London and Middlesex County. Call (519) 709-3833.
+
+## Key pages
+- [Home](https://londonheatingcooling.ca/)
+- [Services](https://londonheatingcooling.ca/services/)
+- [About](https://londonheatingcooling.ca/about/)
+- [Blog](https://londonheatingcooling.ca/blog/)
+- [Contact](https://londonheatingcooling.ca/contact/)
+
+## Contact
+- Phone: (519) 709-3833
+- Email: contact@londonheatingcooling.ca
+- Area served: London, Ontario and Middlesex County

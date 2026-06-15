@@ -137,7 +137,7 @@ def header(active=""):
       <span class="topbar__item">{icon('clock',size=15)} 24/7 Emergency Service</span>
       <span class="topbar__item topbar__item--areas">{icon('pin',size=15)} Serving {CITY} &amp; {COUNTY}</span>
     </div>
-    <a class="topbar__right" href="/contact/">{icon('check-sm',size=15)} Free, No-Obligation Quotes</a>
+    <a class="topbar__right" href="tel:{PHONE_TEL}">{icon('phone',size=15)} Call {PHONE_DISPLAY}</a>
   </div>
 </div>
 <header class="site-header">
@@ -192,8 +192,9 @@ def footer():
     </div>
   </div>
 </footer>
-<div class="mobile-bar mobile-bar--single">
-  <a class="btn btn-primary" href="/contact/">{icon('send',size=18)} Get a Free Quote</a>
+<div class="mobile-bar">
+  <a class="btn btn-secondary" href="tel:{PHONE_TEL}">{icon('phone',size=18)} Call Now</a>
+  <a class="btn btn-primary" href="/contact/">{icon('send',size=18)} Free Quote</a>
 </div>
 <script src="/assets/js/main.js" defer></script>'''
 
@@ -202,7 +203,7 @@ def quote_form(heading="Get a Free Quote", sub="No obligation. Fast response. Ho
     return f'''<form class="quote-card" data-quote-form novalidate aria-label="Request a free quote">
   <div class="quote-card__head">
     <span class="badge">{icon('headset',size=24)}</span>
-    <div><h3 id="quote">{heading}</h3></div>
+    <div><p id="quote" class="quote-card__title" style="font-size:1.15rem;font-weight:700;margin:0;line-height:1.2;color:var(--ink)">{heading}</p></div>
   </div>
   <p class="sub">{sub}</p>
   <div class="form-status" role="status" aria-live="polite"></div>
@@ -278,7 +279,7 @@ def head(title, desc, path, schema_blocks=None, og_type="website", robots="index
 <meta name="description" content="{desc}">
 <link rel="canonical" href="{canonical}">
 <meta name="robots" content="{robots}">
-<meta name="theme-color" content="2d1e20">
+<meta name="theme-color" content="#2d1e20">
 <meta property="og:type" content="{og_type}">
 <meta property="og:site_name" content="{SITE_NAME}">
 <meta property="og:title" content="{title}">
