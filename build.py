@@ -80,14 +80,14 @@ def stars(n=5): return '<div class="stars" aria-label="'+str(n)+' out of 5 stars
 # ------------------------------------------------------------------ LOGO
 LOGO_MARK = '''<svg class="brand__mark" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="{name} logo">
   <rect width="48" height="48" rx="13" fill="url(#ahcg)"/>
-  <path d="M19 12.5c.4 2.4-.4 3.9-1.7 5.2-1.5 1.5-2.6 3-2.6 5.3a7 7 0 0 0 12.2 4.6" stroke="#d4a836" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-  <path d="M19 12.5c2.4 2.4 5.6 4.2 7.4 6.6 1.4 1.9 1.7 4 .5 6" stroke="#b8860b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-  <g stroke="#d4a836" stroke-width="2" stroke-linecap="round">
+  <path d="M19 12.5c.4 2.4-.4 3.9-1.7 5.2-1.5 1.5-2.6 3-2.6 5.3a7 7 0 0 0 12.2 4.6" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M19 12.5c2.4 2.4 5.6 4.2 7.4 6.6 1.4 1.9 1.7 4 .5 6" stroke="#cfe0f0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <g stroke="#ffffff" stroke-width="2" stroke-linecap="round">
     <line x1="33" y1="16" x2="33" y2="30"/><line x1="26.5" y1="23" x2="39.5" y2="23"/>
     <line x1="28.6" y1="18.6" x2="37.4" y2="27.4"/><line x1="37.4" y1="18.6" x2="28.6" y2="27.4"/>
   </g>
   <defs><linearGradient id="ahcg" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#d4a836"/><stop offset="1" stop-color="#2d1e20"/></linearGradient></defs>
+    <stop stop-color="#2563eb"/><stop offset="1" stop-color="#0f2544"/></linearGradient></defs>
 </svg>'''.replace("{name}", SITE_NAME)
 
 def brand(footer=False):
@@ -272,7 +272,7 @@ def head(title, desc, path, schema_blocks=None, og_type="website", robots="index
 <meta name="description" content="{desc}">
 <link rel="canonical" href="{canonical}">
 <meta name="robots" content="{robots}">
-<meta name="theme-color" content="#2d1e20">
+<meta name="theme-color" content="#0f2544">
 <meta property="og:type" content="{og_type}">
 <meta property="og:site_name" content="{SITE_NAME}">
 <meta property="og:title" content="{title}">

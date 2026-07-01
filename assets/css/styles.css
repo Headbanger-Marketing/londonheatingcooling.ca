@@ -1,24 +1,24 @@
 :root {
   /* Brand palette */
-  --navy: #2d1e20;
-  --navy-light: #3d2e30;
-  --primary: #991b1b;
-  --accent: #8e7124;
-  --accent2: #996f09;
-  --light-bg: #fef2f2;
-  --body: #5a3e3e;
-  --card-bg: #fefce8;
-  --warm-gradient: rgba(212,168,54,0.12);
+  --navy: #0f2544;
+  --navy-light: #1c3f66;
+  --primary: #2563eb;
+  --accent: #0369a1;
+  --accent2: #075985;
+  --light-bg: #eaf3fb;
+  --body: #3c4a5c;
+  --card-bg: #f3f8fc;
+  --warm-gradient: rgba(37,99,235,0.10);
 
   /* System tokens */
   --ink: #0d0909;
-  --muted: #2d1f1f;
+  --muted: #47566a;
   --muted-light: #8b9aad;
   --line: #e4eaf0;
   --line-2: #d2dbe5;
   --surface: #ffffff;
-  --bg: #fefbfb;
-  --bg-alt: #fef8f8;
+  --bg: #f7fafd;
+  --bg-alt: #f1f6fb;
   --success: #1f9d62;
   --star: #f5a623;
   --error: #c0392b;
