@@ -320,7 +320,7 @@ def build_home():
   <div class="container">
     <div class="hero__copy reveal">
       <span class="eyebrow on-dark">{CITY}'s Full-Service Heating &amp; Cooling Team</span>
-      <h1>One Team for <span class="accent">Heating &amp; Cooling</span>, Every Season</h1>
+      <h1>{CITY}'s One Team for <span class="accent">Heating &amp; Cooling</span>, Every Season</h1>
       <p class="hero__sub">{SITE_NAME} keeps homes across {CITY}, Ontario and {COUNTY} comfortable all year. Furnaces in winter, air conditioning in summer, and steady maintenance in between, handled by one dependable team that knows your system and answers when you call.</p>
       <div class="hero__cta">
         <a class="btn btn-primary btn-lg" href="#quote">Get a Free Quote</a>
