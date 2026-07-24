@@ -1,15 +1,24 @@
-# London Heating & Cooling
+# londonheatingcooling.ca
 
-> Licensed, insured HVAC company in London, Ontario. A full-service heating and cooling team handling furnace and AC repair, heat pumps, ductless systems, thermostats, and duct cleaning, plus seasonal maintenance, for homeowners across London and Middlesex County. Call (519) 709-3833.
+> londonheatingcooling.ca is a local HVAC company serving Ontario, Ontario, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone:   |  Email: contact@londonheatingcooling.ca  |  Website: https://londonheatingcooling.ca
 
 ## Key pages
-- [Home](https://londonheatingcooling.ca/)
-- [Services](https://londonheatingcooling.ca/services/)
-- [About](https://londonheatingcooling.ca/about/)
-- [Blog](https://londonheatingcooling.ca/blog/)
-- [Contact](https://londonheatingcooling.ca/contact/)
 
-## Contact
-- Phone: (519) 709-3833
-- Email: contact@londonheatingcooling.ca
-- Area served: London, Ontario and Middlesex County
+- [Home](https://londonheatingcooling.ca/): londonheatingcooling.ca homepage with service overview and FAQ
+- [About](https://londonheatingcooling.ca/about/): About the company and service area
+- [Contact](https://londonheatingcooling.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://londonheatingcooling.ca/services/furnace-repair/): Furnace Installation & Repair in Ontario, Ontario
+- [AC Installation & Repair](https://londonheatingcooling.ca/services/ac-repair/): AC Installation & Repair in Ontario, Ontario
+- [Heat Pumps](https://londonheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pumps in Ontario, Ontario
+- [Duct Cleaning](https://londonheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in Ontario, Ontario
+- [Thermostats](https://londonheatingcooling.ca/services/thermostat-repair-replacement/): Thermostats in Ontario, Ontario
+- [Ductless AC Installation](https://londonheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Ontario, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Ontario are answered on the homepage.
